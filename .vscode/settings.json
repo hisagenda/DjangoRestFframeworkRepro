@@ -1,0 +1,20 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 33066,
+            "askForPassword": true,
+            "driver": "MariaDB",
+            "name": "@Localhost",
+            "username": "root",
+            "database": "admin"
+        }
+    ],
+    "githubPullRequests.remotes": [
+        "upstream"
+    ]
+}
